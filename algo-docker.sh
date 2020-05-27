@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -eEo pipefail
+set -eEo pipefailed
 
 ALGO_DIR="/algo"
 DATA_DIR="/data"
